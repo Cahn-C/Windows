@@ -7,3 +7,13 @@
 - Modules:
     - cmdlets specific to a product are packaged together and installed as modules
     - Some are installed with the product and some need to be added manually
+
+<br>
+
+- PowerShell Console (equivalent to the CMD prompt)
+      - Runs PowerShell commands and execute scripts
+- PowerShell ISE
+      - PowerShell Integrated Scripting Environment(ISE) is a graphical user interface-based tool that allows you to:
+          - Run commands, create, modify and execute scripts
+- Windows PowerShell remote management:
+      - Allows Windows PowerShell to remotely run cmdlets on other Windows systems
