@@ -17,3 +17,23 @@
           - Run commands, create, modify and execute scripts
 - Windows PowerShell remote management:
       - Allows Windows PowerShell to remotely run cmdlets on other Windows systems
+
+
+## Windows PowerShell vs CMD Prompt
+
+### CMD Prompt
+
+Ping: Test Connectivity <br>
+Ping namofwebsite.com: reply (by default you will get 4 replies) <br>
+Ping -t namofwebsite.com: This will ping forever
+
+<br>
+<br>
+
+Ipconfig: View IP configuration
+Ipconfig /all: Shows full IP configuration
+
+<br>
+<br>
+
+DiskPart utility: Unique syntax only used in DeskPart
