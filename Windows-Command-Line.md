@@ -18,6 +18,7 @@
 - Windows PowerShell remote management:
       - Allows Windows PowerShell to remotely run cmdlets on other Windows systems
 
+<br>
 
 ## Windows PowerShell vs CMD Prompt
 
