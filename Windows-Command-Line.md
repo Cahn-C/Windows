@@ -5,5 +5,5 @@
 - cmdlets:
     - Are small commands that perform specific functions
 - Modules:
-    - Cmdlets specific to a product are packaged together and installed as modules
+    - cmdlets specific to a product are packaged together and installed as modules
     - Some are installed with the product and some need to be added manually
