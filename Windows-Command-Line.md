@@ -24,39 +24,39 @@
 
 ### CMD Prompt
 
-Ping: Test Connectivity <br>
-Ping namofwebsite.com: reply (by default you will get 4 replies) <br>
-Ping -t namofwebsite.com: This will ping forever
+```Ping```: Test Connectivity <br>
+```Ping namofwebsite.com```: reply (by default you will get 4 replies) <br>
+```Ping -t namofwebsite.com```: This will ping forever
 
 <br>
 <br>
 
-Ipconfig: View IP configuration
-Ipconfig /all: Shows full IP configuration
+```Ipconfig```: View IP configuration
+```Ipconfig /all```: Shows full IP configuration
 
 <br>
 <br>
 
-DiskPart utility: Unique syntax only used in DeskPart
+```DiskPart utility```: Unique syntax only used in DeskPart
 
 ### PowerShell
 Verb-Noun
 
 <br>
 
-Test-connection nameofwebsite.com <br>
-Test-connection nameofwebsite.com -count 10: Gets 10 replies <br><br>
+```Test-connection nameofwebsite.com``` <br>
+```Test-connection nameofwebsite.com -count 10```: Gets 10 replies <br><br>
 
-Get-eventlog: View the event logs
-Get-eventlog -LogName System: View a specific event log, this shows the contents of the system log
+```Get-eventlog```: View the event logs
+```Get-eventlog -LogName System```: View a specific event log, this shows the contents of the system log
 
 
 ## PowerShell Help
-Get-Help <br>
-Get-Help *event*: This will run through help and list every command that has the word event with anything before or after <br>
-Get-Help *eventlog*: This will run through help and list every command that has the word eventlog with anything before or after <br>
-Get-Help Get-EventLog: Will help you understand the syntax of the command (Basic information) <br>
-Get-Help Get-EventLog -detail: Will help you understand the syntax of the command (More detailed information) <br>
-Get-Help Get-EventLog -examples: Provides examples on how the syntax is used <br>
-Get-Help Get-EventLog -full: Shows everything, the details and examples <br>
-Get-Help Get-EventLog -online: Connects to the web, goes to the PowerShell help page with your default browser <br>
+```Get-Help``` <br>
+```Get-Help *event*```: This will run through help and list every command that has the word event with anything before or after <br>
+```Get-Help *eventlog*```: This will run through help and list every command that has the word eventlog with anything before or after <br>
+```Get-Help Get-EventLog```: Will help you understand the syntax of the command (Basic information) <br>
+```Get-Help Get-EventLog -detail```: Will help you understand the syntax of the command (More detailed information) <br>
+```Get-Help Get-EventLog -examples```: Provides examples on how the syntax is used <br>
+```Get-Help Get-EventLog -full```: Shows everything, the details and examples <br>
+```Get-Help Get-EventLog -online```: Connects to the web, goes to the PowerShell help page with your default browser <br>
