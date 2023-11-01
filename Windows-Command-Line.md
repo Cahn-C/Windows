@@ -38,3 +38,14 @@ Ipconfig /all: Shows full IP configuration
 <br>
 
 DiskPart utility: Unique syntax only used in DeskPart
+
+### PowerShell
+Verb-Noun
+
+<br>
+
+Test-connection nameofwebsite.com <br>
+Test-connection nameofwebsite.com -count 10: Gets 10 replies <br><br>
+
+Get-eventlog: View the event logs
+Get-eventlog -LogName System: View a specific event log, this shows the contents of the system log
