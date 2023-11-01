@@ -52,11 +52,11 @@ Get-eventlog -LogName System: View a specific event log, this shows the contents
 
 
 ## PowerShell Help
-Get-Help: 
-Get-Help *event*: This will run through help and list every command that has the word event with anything before or after
-Get-Help *eventlog*: This will run through help and list every command that has the word eventlog with anything before or after
-Get-Help Get-EventLog: Will help you understand the syntax of the command (Basic information)
-Get-Help Get-EventLog -detail: Will help you understand the syntax of the command (More detailed information)
-Get-Help Get-EventLog -examples: Provides examples on how the syntax is used
-Get-Help Get-EventLog -full: Shows everything, the details and examples
-Get-Help Get-EventLog -online: Connects to the web, goes to the PowerShell help page with your default browser
+Get-Help <br>
+Get-Help *event*: This will run through help and list every command that has the word event with anything before or after <br>
+Get-Help *eventlog*: This will run through help and list every command that has the word eventlog with anything before or after <br>
+Get-Help Get-EventLog: Will help you understand the syntax of the command (Basic information) <br>
+Get-Help Get-EventLog -detail: Will help you understand the syntax of the command (More detailed information) <br>
+Get-Help Get-EventLog -examples: Provides examples on how the syntax is used <br>
+Get-Help Get-EventLog -full: Shows everything, the details and examples <br>
+Get-Help Get-EventLog -online: Connects to the web, goes to the PowerShell help page with your default browser <br>
