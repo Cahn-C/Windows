@@ -17,9 +17,16 @@
 
 ## Domain
 - Centralized authentication
+      - You have 3 computers (computer 1, computer 2 and computer 3), a server (Windows Server 2019 for example) that is configured with Active Directory domain services
+      - Once configured the server is now a domain controller.
+      - Once you create the user ```Jacob Roberts``` and set the password, the user will be created to all 3 computers, because the 3 computers are all under the domain controller.
 - Centralized administration
+      - If I wanted to block a certain application on all computers in the entire domain, I can go to my domain controller and use this utility called Group Policy.
+      - With Group Policy, I can manage more than 3000 settings.
+      - I can simply add a firewall rule that says block a specific application, and this will process out to all of the computers in my domain.
 - Unlimited number of computers
 - High security
+      - More simplistic to manage
 
 <br>
 
