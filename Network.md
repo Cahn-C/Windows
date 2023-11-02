@@ -32,7 +32,8 @@
 
 ## Active Directory Domain Services(AD DS) Terms
 AD DS is composed of both logical and physical components <br>
-All Design components
+
+### All Design components
 - Logical Components
     - Domains
     - Domain Trees
@@ -41,7 +42,7 @@ All Design components
     - Containers
 <br>
 
-All servers components <br>
+### All servers components <br>
 - Physical Components
     - Domain Controllers: Server that has Active Directory domain services installed and configured.
     - Read-only Domain Controllers(RODC): Read only copy of Active Directory on it.
