@@ -3,7 +3,7 @@
 ## Workgroup
 - No centralized authentication:
     - If you have 3 computers (computer 1, computers 2 and computer 3) you are user ```Jacob Roberts```, and you want to log into the computers, you will need to log into these computers from time to time
-    - Assuming that computer 1 is your primary computer, but you want to log into computer 3, someone will need to go to computer 3 and create a user account for ```Jacob   Roberts```
+    - Assuming that computer 1 is your primary computer, but you want to log into computer 3, someone will need to go to computer 3 and create a user account for ```Jacob Roberts```
     - These computers have no relationship to each other than they physically reside on the same network
 - No centralized administration
     - If I want to configure the firewall, I have to physically touch each of these computers
