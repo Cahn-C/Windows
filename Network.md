@@ -33,7 +33,7 @@
 ## Active Directory Domain Services(AD DS) Terms
 AD DS is composed of both logical and physical components <br>
 
-### All Design components
+### All design components
 - Logical Components
     - Domains
     - Domain Trees
