@@ -42,7 +42,7 @@ AD DS is composed of both logical and physical components <br>
     - Containers
 <br>
 
-### All servers components <br>
+### All servers components
 - Physical Components
     - Domain Controllers: Server that has Active Directory domain services installed and configured.
     - Read-only Domain Controllers(RODC): Read only copy of Active Directory on it.
