@@ -60,7 +60,7 @@ AD DS is composed of both logical and physical components <br>
     - Authentication of the computer at startup
  
 
-  ## Organizational Units and Containers
+## Organizational Units and Containers
 - Use containers to group obkects within a domain
     - You cannot apply GPOs(Group Policy Objects) to containers
     - Containers are used for system objects and as the default location for new objects
