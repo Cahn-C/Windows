@@ -70,3 +70,10 @@ GPO: Applies policies to users and computers.
 - Create OUs to:
     - Configure objects by assigning GPOs to them
     - Delegate administrative permissions
+
+## Domain Controllers
+- Are servers that host the AD DS database(Ntds.dit) and SYSVOL
+- Host the Kerberos authentication service and KDC services to perform authentication
+- Have best practices for:
+    - Availability:
+        - Use at least two domain controllers in a domain
