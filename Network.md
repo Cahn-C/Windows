@@ -48,3 +48,13 @@ AD DS is composed of both logical and physical components <br>
     - Read-only Domain Controllers(RODC): Read only copy of Active Directory on it.
 <br>
 
+## AD DS Objects
+- User objects
+    - Authentication of the user at login
+    - Access control
+ 
+- Group objects
+    - Simplifying assigning permissions
+
+- Computer objects
+    - Authentication of the computer at startup
