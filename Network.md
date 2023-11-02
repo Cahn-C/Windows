@@ -17,7 +17,7 @@
 
 ## Domain
 - Centralized authentication:
-      - You have 3 computers (computer 1, computer 2 and computer 3), a server (Windows Server 2019 for example) that is configured with Active Directory domain services
+      - You have 3 computers (computer 1, computer 2 and computer 3), a server (Windows Server 2019 for example) that is configured with Active Directory domain services.
       - Once configured the server is now a domain controller.
       - Once you create the user ```Jacob Roberts``` and set the password, the user will be created to all 3 computers, because the 3 computers are all under the domain controller.
 - Centralized administration:
