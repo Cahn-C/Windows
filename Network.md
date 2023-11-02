@@ -13,6 +13,7 @@
     - But let's say that there are 25 computers, if you have 25 different computers that try to browse the shared folder at the same time, they're going to get an error message that says "The maximum number of connections has been exceeded".
 - Low security
 
+<br>
 
 ## Domain
 - Centralized authentication:
