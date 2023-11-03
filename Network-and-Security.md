@@ -90,3 +90,11 @@ GPO: Applies policies to users and computers.
     - Manage Folder Redirection
     - Configure network settings
 
+<br>
+
+## What are Group Policy Preferences?
+Group Policy Preferences are a collection of Group Policy client-side extensions that deliver preference settings to domain-joined computers. <br>
+
+Preference settings differ from policy settings because users have a choice to alter the administrative configuration. Policy settings administratively enforce setting, which restricts user choice. <br>
+
+Preferences can be targeted to specific groups, operating systems, IP addresses, MAC addresses, and more.
