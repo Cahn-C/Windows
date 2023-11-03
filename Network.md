@@ -77,3 +77,15 @@ GPO: Applies policies to users and computers.
 - Have best practices for:
     - Availability:
         - Use at least two domain controllers in a domain
+
+
+## What are GPOs?
+- Group Policy is a powerful administrative tool with over 3500 settings
+- You can use it to enforce various types of settings to a large number of users and computers
+- Typically, you use GPOs to:
+    - Apply security settings
+    - Manage desktop application settings
+    - Deploy application software
+    - Manage Folder Redirection
+    - Configure network settings
+
