@@ -78,6 +78,7 @@ GPO: Applies policies to users and computers.
     - Availability:
         - Use at least two domain controllers in a domain
 
+<br>
 
 ## What are GPOs?
 - Group Policy is a powerful administrative tool with over 3500 settings
