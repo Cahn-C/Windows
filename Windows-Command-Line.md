@@ -55,7 +55,10 @@ Ipconfig /all
 <br>
 <br>
 
-```DiskPart utility```: Unique syntax only used in DeskPart
+Unique syntax only used in DeskPart
+```
+DiskPart utility
+```
 
 ### PowerShell
 Verb-Noun
