@@ -24,9 +24,20 @@
 
 ### CMD Prompt
 
-```Ping```: Test Connectivity <br>
-```Ping namofwebsite.com```: reply (by default you will get 4 replies) <br>
-```Ping -t namofwebsite.com```: This will ping forever
+Test Connectivity
+```
+Ping
+```
+
+reply (by default you will get 4 replies) <br>
+```
+Ping namofwebsite.com
+```
+
+This will ping forever
+```
+Ping -t namofwebsite.com
+``` 
 
 <br>
 <br>
