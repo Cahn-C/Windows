@@ -62,11 +62,24 @@ Verb-Noun
 
 <br>
 
-```Test-connection nameofwebsite.com``` <br>
-```Test-connection nameofwebsite.com -count 10```: Gets 10 replies <br><br>
+```
+Test-connection nameofwebsite.com
+```
 
-```Get-eventlog```: View the event logs
-```Get-eventlog -LogName System```: View a specific event log, this shows the contents of the system log
+Gets 10 replies
+```
+Test-connection nameofwebsite.com -count 10
+```
+
+View the event logs
+```
+Get-eventlog
+```
+
+View a specific event log, this shows the contents of the system log
+```
+Get-eventlog -LogName System
+``` 
 
 
 ## PowerShell Help
