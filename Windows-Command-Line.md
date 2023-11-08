@@ -42,8 +42,15 @@ Ping -t namofwebsite.com
 <br>
 <br>
 
-```Ipconfig```: View IP configuration
-```Ipconfig /all```: Shows full IP configuration
+View IP configuration
+```
+Ipconfig
+```
+
+Shows full IP configuration
+```
+Ipconfig /all
+```
 
 <br>
 <br>
