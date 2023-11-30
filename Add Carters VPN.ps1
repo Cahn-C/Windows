@@ -1,0 +1,1 @@
+Add-VpnConnection -Name Carters-VPN -ServerAddress 192.168.1.234 -AuthenticationMethod MSChapv2 -EncryptionLevel Required
