@@ -87,7 +87,7 @@ All variables in PowerShell start with a ```$``` followed by the name
 $filePath
 ```
 
-- Sometimes PowerShell does return an error if the variable isn't defined and you try to read it, so be sure to set a value in the variable
+- Sometimes PowerShell does return an error if the variable isn't defined, so be sure to set a value in the variable
 
 ```
 $filePath = 'C:\SomeFolder\Somewhere\file.txt'
