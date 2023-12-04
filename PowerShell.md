@@ -38,4 +38,13 @@ Get a list of all commands for a specifc verb
 ```
 Get-Command -Verb Get
 ```
+```
+Get-Command -Verb Set
+```
+```
+Get-Command -Verb New
+```
+```
+Get-Command -Verb Add
+```
 
