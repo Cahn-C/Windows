@@ -76,6 +76,8 @@ This is known as a positional parameter, meaning that you do not have to specify
 Get-Help Get-Service
 ```
 
+<br>
+
 ## Variables
 
 ### Reading and defining variables
