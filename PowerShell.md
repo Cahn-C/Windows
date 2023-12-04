@@ -113,3 +113,9 @@ Get a list of all automatic variables
 ```
 Get-Variable
 ```
+
+
+This automatic variable defines how many lines of your command history are saved.
+```
+$MaximumHistoryCount
+```
