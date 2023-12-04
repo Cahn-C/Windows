@@ -27,3 +27,15 @@ ping www.example.com
 
 <br>
 
+## How Commands Work in PowerShell
+
+Get a list of all commands in PowerShell
+```
+Get-Command
+```
+
+Get a list of all commands for a specifc verb
+```
+Get-Command -Verb Get
+```
+
