@@ -75,3 +75,28 @@ This is known as a positional parameter, meaning that you do not have to specify
 ```
 Get-Help Get-Service
 ```
+
+## Variables
+
+### Reading and defining variables
+
+All variables in PowerShell start with a ```$``` followed by the name
+```
+$filePath
+```
+
+- Sometimes PowerShell does return an error if the variable isn't defined and you try to read it, so be sure to set a value in the variable
+
+```
+$filePath = 'C:\SomeFolder\Somewhere\file.txt'
+```
+
+Another way to set a variable, but in a more PowerShell way
+```
+Set-Variable -Name filePath -Value 'C:\SomeFolder\Somewhere\file.txt'
+```
+
+Get the value from the variable
+```
+Get-Variable -Name filePath
+```
