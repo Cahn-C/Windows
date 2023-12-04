@@ -48,3 +48,7 @@ Get-Command -Verb New
 Get-Command -Verb Add
 ```
 
+Get al list of all services
+```
+Get-Service
+```
