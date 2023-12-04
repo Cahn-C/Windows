@@ -1,5 +1,7 @@
 ## Running DOS Commands
 
+### The following commands are considered as Aliases
+
 Change directories
 ```
 cd .\Windows\
@@ -23,5 +25,5 @@ ping 1.1.1.1
 ping www.example.com
 ```
 
-
+<br>
 
