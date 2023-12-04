@@ -104,3 +104,12 @@ Get-Variable -Name filePath
 ```
 
 ### Automatic Variables
+
+Automatic variables read only varibales, meaning you can only get their values, you can't change them in any way
+
+<br>
+
+Get a list of all automatic variables
+```
+Get-Variable
+```
