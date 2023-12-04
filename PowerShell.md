@@ -102,3 +102,5 @@ Get the value from the variable
 ```
 Get-Variable -Name filePath
 ```
+
+### Automatic Variables
