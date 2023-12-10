@@ -119,3 +119,6 @@ This automatic variable defines how many lines of your command history are saved
 ```
 $MaximumHistoryCount
 ```
+
+<br>
+
