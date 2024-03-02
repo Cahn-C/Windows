@@ -103,6 +103,8 @@ Get the value from the variable
 Get-Variable -Name filePath
 ```
 
+<br>
+
 ### Automatic Variables
 
 Automatic variables read only varibales, meaning you can only get their values, you can't change them in any way
